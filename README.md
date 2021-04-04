@@ -4,9 +4,9 @@
 
 This is my personal project to improve the quality of my study in Economics, Mathematics and Statistics. The problem that I want to solve is the difficulty of organizing the materials produced throughout the study sections and the management of the necessary revisions to keep theses subjects in the long-term memory. The name "Loci" is an allusion to the [Loci Method](https://en.wikipedia.org/wiki/Method_of_loci) (aka Palace of the Mind). Initially, I intend to allow various types of input for study sections such as: word documents, jpeg, pdf, flash cards. In the case of flash cards, I intend to produce a native solution on the platform itself. All data will be stored locally and can be exported as a backup.
 
+---
 
 ## The program will have the following features:
----
 - [ ] Login and Password
 - [ ] Register of Disciplines
 - [ ] Register of Subjects by Disciplines

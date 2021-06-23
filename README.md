@@ -19,4 +19,8 @@ Initially, I intend to allow various types of input for study sections such as: 
 
 ---
 ## Some links to use later
+### For technical stuff
+- [front-end (dearpygui)](https://github.com/hoffstadt/DearPyGui_06)
+
+### For educational stuff
  - [5 Methods to take notes in studying sessions](https://www.oxfordlearning.com/5-effective-note-taking-methods/)

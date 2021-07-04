@@ -18,9 +18,44 @@ Initially, I intend to allow various types of input for study sections such as: 
 - [ ] Backup Export 
 
 ---
+
+## Roadmap to development
+### Front-End
+- [ ] First page login
+- [ ] Home page
+  - [ ] Total concepts learned by Subject
+  - [ ] Last 30 days learned
+  - [ ] Piechart by subject
+  - [ ] List of books used
+- [ ] Study page
+  - [ ] Registration of a concept
+  - [ ] Registration of a overview of this concept
+  - [ ] Registration of the resource
+  - [ ] Setting the Subject
+  - [ ] Setting the Topic
+- [ ] Revision page
+  - [ ] Random review
+  - [ ] Review by subject
+  - [ ] Review by date
+  - [ ] Review by number of errors
+- [ ] Settings page
+  - [ ] Subjects editor
+  - [ ] Login settings
+
+### Back-end
+- [ ] Data Base Management System - DBMS
+- [ ] Database Tables
+
+---
+
+## Some photos of the project
+
+
+---
+
 ## Some links to use later
 ### For technical stuff
-- [front-end (dearpygui)](https://github.com/hoffstadt/DearPyGui)
+- [front-end (dearpygui)](https://github.com/hoffstadt/DearPyGui/wiki)
 
 ### For educational stuff
  - [5 Methods to take notes in studying sessions](https://www.oxfordlearning.com/5-effective-note-taking-methods/)

@@ -50,8 +50,7 @@ Initially, I intend to allow various types of input for study sections such as: 
 
 ## Some photos of the project
 ### Login Page
-:::image type="content" source="ASSETS/screenshot_1.png" alt-text="Login Page":::
-
+![Login Page](ASSETS/screenshot_1.png)
 ---
 
 ## Some links to use later
